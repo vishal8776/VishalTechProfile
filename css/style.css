@@ -418,6 +418,12 @@ span {
     transition: .5s ease;
 }
 
+.portfolio-box .portfolio-layer .link-icon {
+    position: relative;
+    display: flex;
+    gap: 20px;
+}
+
 .portfolio-box:hover .portfolio-layer{
     opacity: 1;
 }
