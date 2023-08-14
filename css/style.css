@@ -688,12 +688,12 @@ span {
     #menu-icon {
         display: block;
         position: absolute;
-        right: 7rem;
+        right: 1rem;
     }
 
     #darkMode-icon {
         position: absolute;
-        right: 14rem;
+        right: 6rem;
         font-size: 2.6rem;
         color: var(--text-color);
         margin-bottom: .1rem;
@@ -859,11 +859,11 @@ span {
     }
 
     #menu-icon {
-        right: 7rem;
+        right: 1rem;
     }
 
     #darkMode-icon {
-        right: 14rem;
+        right: 6rem;
     }
 
     .home {
