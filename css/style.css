@@ -33,6 +33,7 @@ html{
 body{
     background: var(--bg-color);
     color: var(--text-color);
+    overflow-x: hidden;
 }
 
 .header{
@@ -858,7 +859,7 @@ span {
     }
 
     #menu-icon {
-        right: 7rem;
+        right: 9rem;
     }
 
     #darkMode-icon {
